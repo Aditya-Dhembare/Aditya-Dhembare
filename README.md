@@ -1,20 +1,28 @@
 <div align="center">
 
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Yadnyesh%20Khotre&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Aditya%20Dhembare&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+for+the+web+%F0%9F%9A%80;I+love+open+source+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+building" alt="Typing SVG" />
+<a href="https://github.com/Aditya-Dhembare">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;I+turn+data+into+insights+%F0%9F%94%8E;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<!-- Social badges -->
-<a href="https://www.linkedin.com/in/yadnyesh-khotre-0a5305174/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:yadnyeshkhotre.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Aditya-Dhembare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aditya-Dhembare&color=blueviolet&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -23,21 +31,45 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Yadnyesh Khotre
-role: Full-Stack Developer
-location: Pune, India
-currently_working_on: Nukaazo - A Hyperlocal E-commerce Platform
-currently_learning: Rust, System Design
-ask_me_about: React, Node.js, Python, DevOps
-fun_fact: I debug better with coffee ☕
+name: Aditya Dhembare
+role: Aspiring Data Analyst
+location: India
+
+career_goal: Data Analyst
+
+skills:
+  - Python
+  - Pandas
+  - NumPy
+  - SQL
+  - MySQL
+  - Power BI
+  - Excel
+  - Matplotlib
+  - Git
+  - GitHub
+
+currently_working_on:
+  - E-Commerce Sales & Customer Analytics
+  - Data Analytics Projects
+
+currently_learning:
+  - Advanced SQL
+  - Power BI
+  - Python
+  - Data Visualization
+  - Data Cleaning
 ```
 
-- 🔭 I'm currently working on **[Nukaazo](https://nukaazo.com) — A Hyperlocal E-commerce Platform**
-- 🌱 I'm currently learning **Rust & System Design**
-- 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, Python, Cloud & DevOps**
-- 📫 How to reach me: **yadnyeshkhotre.dev@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code**
+* 🔭 Currently working on **E-Commerce Sales & Customer Analytics**
+* 🐍 Using **Python, Pandas and NumPy** for data analysis
+* 🗄️ Working with **SQL and MySQL** for data querying
+* 📊 Building interactive dashboards using **Power BI**
+* 📗 Using **Excel** for data analysis and reporting
+* 📈 Creating visualizations using **Matplotlib**
+* 🧹 Practicing data cleaning, transformation and exploratory data analysis
+* 💼 Preparing for **Data Analyst placement opportunities**
+* 🚀 Building practical projects to strengthen my portfolio
 
 <br/>
 
@@ -45,45 +77,117 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-**Languages**
+### 🐍 Programming Languages
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-**Frontend**
+### 📊 Data Analysis
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+### 🗄️ Database
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 📈 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+### 🌐 Web Technologies
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-
-**Database & Cloud**
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-**Tools**
+### 🔧 Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
+
+<br/>
+
+## 📚 Data Analytics Skills
+
+<div align="center">
+
+| Category           | Skills                                                |
+| ------------------ | ----------------------------------------------------- |
+| 🐍 Python          | Python Programming, Functions, OOP, File Handling     |
+| 🐼 Pandas          | DataFrames, Missing Values, Duplicates, Merge, Concat |
+| 🔢 NumPy           | Arrays, Indexing, Operations, Statistics              |
+| 🗄️ SQL            | SELECT, WHERE, GROUP BY, HAVING, JOIN, Subqueries     |
+| 🐬 MySQL           | Database Creation, Tables, Queries, Data Analysis     |
+| 🧹 Data Cleaning   | Missing Values, Duplicates, Filtering, Transformation |
+| 📊 Visualization   | Matplotlib, Power BI, Excel Charts                    |
+| 📈 Dashboarding    | Power BI Dashboards, KPIs, Slicers, DAX               |
+| 📗 Excel           | Pivot Tables, XLOOKUP, IF, SUMIFS, COUNTIFS           |
+| 🔧 Version Control | Git, GitHub                                           |
+
+</div>
+
+<br/>
+
+## 🚀 Featured Project
+
+### 🛒 E-Commerce Sales & Customer Analytics
+
+A practical data analytics project focused on analyzing **sales, profit, customers, products and business performance**.
+
+#### 🔧 Tools Used
+
+```text
+Python
+Pandas
+NumPy
+SQL
+MySQL
+Power BI
+Excel
+Matplotlib
+```
+
+#### 📊 Project Analysis
+
+* 📈 Sales Analysis
+* 💰 Profit Analysis
+* 📅 Year-wise Performance
+* 🏷️ Category Analysis
+* 📦 Product Analysis
+* 👥 Customer Analysis
+* 🌍 Geographic Analysis
+* 💵 Average Order Value (AOV)
+* 📊 Profit Margin Analysis
+* 🏷️ Discount vs Profit Analysis
+* 🔁 Repeat vs One-time Customers
+
+#### 🔄 Project Workflow
+
+```text
+Raw Dataset
+     ↓
+Excel / Data Cleaning
+     ↓
+SQL / MySQL
+     ↓
+Python + Pandas
+     ↓
+Exploratory Data Analysis
+     ↓
+Power BI
+     ↓
+Interactive Dashboard
+     ↓
+Business Insights
+```
 
 <br/>
 
@@ -91,43 +195,13 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yadnyeshkhotre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadnyeshkhotre&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Dhembare&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadnyeshkhotre&theme=radical" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&theme=redical" width="100%"/>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yadnyeshkhotre/ICEM-Tech-Fest">
-  <img src="https://img.shields.io/badge/ICEM--Tech--Fest-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/ICEM-Tech-Fest?style=for-the-badge&color=6a11cb"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Dhembare&layout=compact&theme=radical"/>
 
 <br/><br/>
 
-<a href="https://github.com/yadnyeshkhotre/bugzy-invoice-snap">
-  <img src="https://img.shields.io/badge/bugzy--invoice--snap-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/bugzy-invoice-snap?style=for-the-badge&color=6a11cb"/>
-
-<br/><br/>
-
-<a href="https://github.com/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic">
-  <img src="https://img.shields.io/badge/Code--Loom-View_Repo-2575fc?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/github/stars/yadnyeshkhotre/Code-Loom-Weave-the-Missing-Logic?style=for-the-badge&color=6a11cb"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Dhembare&theme=radical" alt="GitHub Streak"/>
 
 </div>
 
@@ -136,7 +210,9 @@ fun_fact: I debug better with coffee ☕
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yadnyeshkhotre/yadnyeshkhotre/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/Aditya-Dhembare/Aditya-Dhembare/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
 </div>
 
 <br/>
@@ -144,7 +220,75 @@ fun_fact: I debug better with coffee ☕
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadnyeshkhotre&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Dhembare&bg_color=0d1117&color=2575fc&line=6a11cb&point=ffffff&theme=react-dark" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🎯 Current Goals
+
+<div align="center">
+
+| 🎯 Goal                       | Status         |
+| ----------------------------- | -------------- |
+| 🐍 Improve Python             | 🔄 Learning    |
+| 🐼 Master Pandas              | 🔄 Learning    |
+| 🗄️ Strengthen SQL            | 🔄 Learning    |
+| 📊 Build Power BI Dashboards  | 🔄 Learning    |
+| 📈 Improve Data Visualization | 🔄 Learning    |
+| 💼 Build Portfolio Projects   | 🔄 In Progress |
+| 🚀 Prepare for Placements     | 🔄 In Progress |
+
+</div>
+
+<br/>
+
+## 📌 What I'm Learning
+
+```text
+Python
+ ├── Pandas
+ ├── NumPy
+ ├── Matplotlib
+ └── File Handling
+
+SQL
+ ├── Queries
+ ├── Joins
+ ├── Aggregations
+ └── Data Analysis
+
+Power BI
+ ├── Data Modeling
+ ├── DAX
+ ├── KPIs
+ ├── Slicers
+ └── Interactive Dashboards
+
+Excel
+ ├── Pivot Tables
+ ├── XLOOKUP
+ ├── IF
+ ├── SUMIFS
+ ├── COUNTIFS
+ └── Charts
+```
+
+<br/>
+
+## 💡 Areas of Interest
+
+<div align="center">
+
+📊 Data Analytics    |   
+📈 Business Intelligence    |   
+🐍 Python    |   
+🗄️ SQL    |   
+📊 Power BI    |   
+📗 Excel
+
 </div>
 
 <br/>
@@ -153,22 +297,34 @@ fun_fact: I debug better with coffee ☕
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/yadnyesh-khotre-0a5305174/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:yadnyeshkhotre.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://nukaazo.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://github.com/Aditya-Dhembare">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
+
+### 💻 Turning Data Into Insights 📊
+
+**Thanks for visiting my profile! ⭐**
+
 </div>
+
+<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yadnyeshkhotre&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer" width="100%"/>
 
 </div>
